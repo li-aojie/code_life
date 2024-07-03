@@ -1,4 +1,4 @@
-# code_life
+# code_life 代码生活记录
 
 ## Environment Variables
 
